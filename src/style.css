@@ -15,6 +15,8 @@ h4 ,p{
 .container {
     width: 550px;
     margin: 0 auto;
+    -webkit-box-shadow: 1px 3px 55px -7px rgba(31,24,31,1);
+    border-radius: 5px;
 }
 
 .nav {
